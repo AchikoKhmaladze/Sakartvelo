@@ -1,0 +1,287 @@
+@media screen and (max-width: 1017px) {
+  .search {
+    width: 100px;
+  }
+
+  .search {
+    padding-left: 25px;
+  }
+
+  .search:focus {
+    width: 200px;
+  }
+
+  /* .fa-solid::before {
+    display: none;
+  } */
+}
+
+@media screen and (max-width: 868px) {
+  .burger {
+    display: flex;
+  }
+  .header-last ul {
+    display: none;
+  }
+
+  .header-middle {
+    display: none;
+  }
+
+  .search {
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 757px) {
+  .header-middle {
+    right: 50px;
+  }
+}
+
+@media screen and (max-width: 1120px) {
+  .literature {
+    width: 400px;
+    height: 500px;
+  }
+
+  .architect {
+    width: 400px;
+    height: 500px;
+  }
+
+  .culture-info h1 {
+    font-size: 35px !important;
+  }
+}
+
+@media screen and (max-width: 997px) {
+  .literature {
+    width: 360px;
+    height: 450px;
+  }
+
+  .architect {
+    width: 360px;
+    height: 450px;
+  }
+
+  .culture-info h1 {
+    font-size: 40px;
+  }
+
+  .literature-p {
+    top: 160px !important;
+    font-size: 23px !important;
+  }
+
+  .architect-p {
+    top: 160px !important;
+    font-size: 23px !important;
+  }
+
+  .architect {
+    margin-left: 20px;
+  }
+
+  .literature {
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 866px) {
+  .culture-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .culture-info {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .literature {
+    margin-top: 50px;
+  }
+
+  .second-section {
+    height: 1000px;
+  }
+}
+
+@media screen and (max-width: 808px) {
+  .second {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0px 10px;
+  }
+
+  .dropdown a {
+    font-size: 28px;
+  }
+
+  .second-main {
+    width: 100%;
+  }
+
+  .main1 {
+    height: 1200px;
+  }
+
+  .background-img1 {
+    height: 1280px;
+  }
+}
+
+@media screen and (max-width: 561px) {
+  .country-info {
+    width: 90%;
+  }
+
+  .first-section {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .title {
+    font-size: 25px !important;
+    margin-right: 0px;
+  }
+
+  .dropdown a {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 518px) {
+  .regions h1 {
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 675px) {
+  .first-section h1 {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 534px) {
+  .culture-info {
+    width: 320px !important;
+    height: 420px;
+  }
+
+  .second-section {
+    height: 950px;
+  }
+
+  .drop-search:focus {
+    width: 250px;
+  }
+}
+
+@media screen and (max-width: 387px) {
+  .drop-search:focus {
+    width: 220px;
+  }
+
+  .drop-search-content {
+    left: 80px;
+  }
+}
+
+@media screen and (max-width: 322px) {
+  .drop-search:focus {
+    width: 210px;
+  }
+
+  .drop-search-content {
+    left: 60px;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .culture-info {
+    width: 100% !important;
+    height: 380px;
+  }
+
+  .culture-info p {
+    top: 140px !important;
+  }
+
+  .culture-info h1 {
+    font-size: 30px !important;
+  }
+
+  .culture-info p {
+    font-size: 20px !important;
+  }
+
+  .second-section {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 860px;
+  }
+}
+
+@media screen and (max-width: 322px) {
+  .drop-search:focus {
+    width: 200px;
+  }
+
+  .drop-search-content {
+    left: 60px;
+  }
+}
+
+@media screen and (max-width: 293px) {
+  .culture-info h1 {
+    font-size: 26px !important;
+  }
+}
+
+@media screen and (max-width: 854px) {
+  .culture-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, 1fr);
+  }
+}
+
+@media screen and (max-width: 542px) {
+  .grid-content p {
+    font-size: 20px;
+  }
+
+  .culture-grid {
+    row-gap: 120px;
+  }
+}
+
+@media screen and (max-width: 629px) {
+  .show-culture h1 {
+    font-size: 30px !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .read-more-content {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 496px) {
+  .read-more-content p {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  header {
+    height: 70px;
+  }
+
+  .grape {
+    width: 40px;
+  }
+}
