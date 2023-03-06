@@ -1,3 +1,3 @@
 # Sakartvelo
 
-live link:  https://khmalaa.github.io/Sakartvelo/
+live link:  https://AchikoKhmaladze.github.io/Sakartvelo/
